@@ -1,5 +1,7 @@
 {
  "org.techtown.luvcon": {"name": "럽콘", "version": 202},
+ "com.offsong.shinkaimakoto_wallpaper": {"name": "마이네임카드", "version": 610},
+ "com.offsong.greenwallpaper": {"name": "너랑나랑", "version": 300},
 
 
   "com.offsong.conohaninja_wallpaper": {"name": "페이크_아이브", "version": 602},
@@ -176,7 +178,6 @@
     "com.offsong.jujutsu_wallpaper": {"name": "주술회전", "version": 610},
     "com.offsong.cardcaptor_wallpaper": {"name": "카드캡터체리", "version": 610},
     "com.offsong.fireforce_wallpaper": {"name": "불꽃소방대", "version": 610},
-    "com.offsong.shinkaimakoto_wallpaper": {"name": "신카이마코토", "version": 610},
     "com.offsong.demonslayer_wallpaper": {"name": "귀멸의칼날", "version": 610},
 
     "com.offsong.mrtrot_wallpaper": {"name": "미스터트롯", "version": 610},
