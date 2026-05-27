@@ -1,4 +1,10 @@
 {
+  "ad_config": {
+    "banner_ad_seconds": 1,
+    "native_ad_seconds": 1,
+    "native_ad_count": 6
+  },
+{
  "org.techtown.luvcon": {"name": "럽콘", "version": 202},
  "com.offsong.shinkaimakoto_wallpaper": {"name": "마이네임카드", "version": 610},
  "com.offsong.greenwallpaper": {"name": "너랑나랑", "version": 300},
