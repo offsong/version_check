@@ -18,7 +18,7 @@
 
 	
   "com.offsong.kayoung_wallpaper": {"name": "키키", "version": 610},
-  "com.offsong.weeekly_wallpaper": {"name": "하츠투하츠", "version": 610},
+  "com.offsong.weeekly_wallpaper": {"name": "하츠투하츠", "version": 705},
   "com.offsong.aesthetic_quote": {"name": "키스오브라이프", "version": 610},
   "com.offsong.luvcon": {"name": "이즈나", "version": 610},
   "com.offsong.mind_test": {"name": "미야오", "version": 610},
@@ -27,7 +27,7 @@
   "com.offsong.illit_wallpaper": {"name": "아일릿", "version": 610},
   "com.offsong.monsta_wallpaper": {"name": "아일릿_원희", "version": 610},
 	
-  "com.offsong.btsquotes": {"name": "베이비몬스터", "version": 610},
+  "com.offsong.btsquotes": {"name": "베이비몬스터", "version": 705},
   "com.offsong.dreamcatcher_wallpaper": {"name": "드림캐쳐", "version": 610},
 
   "com.offsong.snsd_wallpaper": {"name": "소녀시대", "version": 610},
@@ -55,8 +55,8 @@
   "com.offsong.chamii_wallpaper": {"name": "트와이스_지효", "version": 610},
 
 
-  "com.offsong.mirae_wallpaper": {"name": "아이브", "version": 610},
-  "com.offsong.wonyoung_wallpaper": {"name": "아이브_장원영", "version": 610},
+  "com.offsong.mirae_wallpaper": {"name": "아이브", "version": 705},
+  "com.offsong.wonyoung_wallpaper": {"name": "아이브_장원영", "version": 705},
   "com.offsong.randombooks": {"name": "아이브_안유진", "version": 610},
   "com.offsong.dressup_wallpaper": {"name": "아이브_레이", "version": 610},
   "com.offsong.memebird_wallpaper": {"name": "아이브_가을", "version": 610},
@@ -77,7 +77,7 @@
   "com.offsong.stayc_wallpaper": {"name": "스테이시", "version": 610},
   "com.offsong.wjsn_wallpaper": {"name": "우주소녀", "version": 610},
   "com.offsong.niziu_wallpaper": {"name": "니쥬", "version": 610},
-  "com.offsong.fromis9_wallpaper": {"name": "프로미스나인", "version": 610},
+  "com.offsong.fromis9_wallpaper": {"name": "프로미스나인", "version": 705},
   "com.offsong.girls999_wallpaper": {"name": "케플러", "version": 610},
   "com.offsong.bgirl_wallpaper": {"name": "브레이브걸스", "version": 610},
   "com.offsong.irene_wallpaper": {"name": "빌리", "version": 610},
@@ -107,9 +107,9 @@
   "com.offsong.yellowwallpaper": {"name": "여자아이들_민니", "version": 610},
   
   
-  "com.offsong.aespa": {"name": "에스파", "version": 610},
+  "com.offsong.aespa": {"name": "에스파", "version": 705},
   "com.offsong.joohyuk_wallpaper": {"name": "에스파_윈터", "version": 610},
-  "com.offsong.bogum_wallpaper": {"name": "에스파_카리나", "version": 610},
+  "com.offsong.bogum_wallpaper": {"name": "에스파_카리나", "version": 705},
   "com.offsong.pattern_generator": {"name": "에스파_지젤", "version": 610},
   "com.offsong.happy_frame": {"name": "에스파_닝닝", "version": 610},
   
@@ -186,7 +186,7 @@
   "com.offsong.pm_wallpaper": {"name": "피원하모니", "version": 610},
 
 	
-    "com.offsong.enhypen": {"name": "엔하이픈", "version": 610},
+    "com.offsong.enhypen": {"name": "엔하이픈", "version": 705},
     "com.offsong.enhypen_heeseung": {"name": "엔하이픈_희승", "version": 610},
     "com.offsong.enhypen_jake": {"name": "엔하이픈_제이크", "version": 610},
     "com.offsong.enhypen_jay": {"name": "엔하이픈_제이", "version": 610},
@@ -196,9 +196,9 @@
     "com.offsong.enhypen_sunoo": {"name": "엔하이픈_선우", "version": 610},
 	
 
-    "com.offsong.sailor_wallpaper": {"name": "세일러문", "version": 610},
-    "com.offsong.in_wallpaper": {"name": "에반게리온", "version": 610},
-    "com.offsong.exoquote": {"name": "주술회전", "version": 610},
+    "com.offsong.sailor_wallpaper": {"name": "세일러문", "version": 705},
+    "com.offsong.in_wallpaper": {"name": "에반게리온", "version": 705},
+    "com.offsong.exoquote": {"name": "주술회전", "version": 705},
     "com.offsong.cardcaptor_wallpaper": {"name": "카드캡터체리", "version": 610},
     "com.offsong.ab6ix_wallpaper": {"name": "불꽃소방대", "version": 610},
     "com.offsong.demonslayer": {"name": "귀멸의칼날", "version": 610},
@@ -214,7 +214,7 @@
     "com.offsong.joy_wallpaper": {"name": "드라마커플", "version": 610},
 	
     "com.offsong.heroquote": {"name": "한국남자배우", "version": 610},
-    "com.offsong.Eunoia_success": {"name": "변우석", "version": 610},
+    "com.offsong.Eunoia_success": {"name": "변우석", "version": 705},
     "com.offsong.leeminho_wallpaper": {"name": "이민호", "version": 610},
     "com.offsong.hyoseop_wallpaper": {"name": "안효섭", "version": 610},
     "com.offsong.songkang_wallpaper": {"name": "송강", "version": 610},
@@ -222,7 +222,7 @@
     "com.offsong.junho_wallpaper": {"name": "이준호", "version": 610},
 
 
-    "com.offsong.loona_wallpaper": {"name": "한국여자배우", "version": 610},
+    "com.offsong.loona_wallpaper": {"name": "한국여자배우", "version": 705},
     "com.offsong.todo": {"name": "수지", "version": 610},
     "com.offsong.shinee_wallpaper": {"name": "김지원", "version": 610},
     "com.offsong.shinhye_wallpaper": {"name": "고윤정", "version": 610},
