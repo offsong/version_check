@@ -3,7 +3,7 @@
   "banner_ad_seconds": 60,
   "native_ad_seconds": 60,
   "native_ad_count": 12,
-  "popular_min_count": 20
+  "popular_min_count": 2
 }
 	
  "org.techtown.luvcon": {"name": "럽콘", "version": 202},
