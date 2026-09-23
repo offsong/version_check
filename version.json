@@ -15,10 +15,10 @@
  "com.offsong.miraclehabit": {"name": "소감습관", "version": 11},
 
 
-  "com.offsong.conohaninja_wallpaper": {"name": "페이크_아이브", "version": 615},
-  "com.offsong.bluewallpaper": {"name": "페이크_장원영", "version": 615},
-  "com.offsong.christianquotes": {"name": "페이크_스키즈", "version": 615},
-  "com.offsong.mijoo_wallpaper": {"name": "페이크_에스파", "version": 615},
+  "com.offsong.conohaninja_wallpaper": {"name": "페이크_아이브", "version": 616},
+  "com.offsong.bluewallpaper": {"name": "페이크_장원영", "version": 616},
+  "com.offsong.christianquotes": {"name": "페이크_스키즈", "version": 616},
+  "com.offsong.mijoo_wallpaper": {"name": "페이크_에스파", "version": 616},
 
 
 	
@@ -43,7 +43,7 @@
   "com.offsong.btsquotes": {"name": "베이비몬스터", "version": 771},
   
   
-  "com.offsong.dreamcatcher_wallpaper": {"name": "리센느_원이", "version": 771},
+  "com.offsong.dreamcatcher_wallpaper": {"name": "리센느_원이", "version": 800},
   "com.offsong.Eunoia_romantic": {"name": "리센느", "version": 771},
 
   "com.offsong.snsd_wallpaper": {"name": "소녀시대", "version": 771},
@@ -72,7 +72,7 @@
 
 
   "com.offsong.mirae_wallpaper": {"name": "아이브", "version": 771},
-  "com.offsong.wonyoung_wallpaper": {"name": "아이브_장원영", "version": 771},
+  "com.offsong.wonyoung_wallpaper": {"name": "아이브_장원영", "version": 800},
   "com.offsong.randombooks": {"name": "아이브_안유진", "version": 771},
   "com.offsong.dressup_wallpaper": {"name": "아이브_레이", "version": 771},
   "com.offsong.memebird_wallpaper": {"name": "아이브_가을", "version": 771},
@@ -159,7 +159,7 @@
   
   "com.offsong.plusminus": {"name": "슈퍼주니어", "version": 771},
   "com.offsong.changewallpaper": {"name": "우즈", "version": 771},
-  "com.offsong.sleep_sound": {"name": "투어스", "version": 771},
+  "com.offsong.sleep_sound": {"name": "투어스", "version": 800},
   "com.offsong.newquiz": {"name": "데이식스", "version": 771},
   "com.offsong.JHOPEQUOTE": {"name": "비투비", "version": 771},
   
@@ -178,7 +178,7 @@
   "com.offsong.Eunoia_wisdom": {"name": "라이즈", "version": 771},
 
   
-  "com.offsong.txtpaper": {"name": "투바투", "version": 771},
+  "com.offsong.txtpaper": {"name": "투바투", "version": 800},
   "com.offsong.coloring_animal": {"name": "투바투_연준", "version": 771},
 
   
