@@ -3,6 +3,7 @@
   "banner_ad_seconds": 60,
   "native_ad_seconds": 60,
   "native_ad_count": 12,
+  "banner_height": 50,
   "popular_min_count": 20,
   "free_favorite_limit": 20,
   "free_favorite_folder_limit": 3
