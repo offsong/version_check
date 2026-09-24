@@ -1,6 +1,6 @@
 {
   "ad_config": {
-  "banner_ad_seconds": 30,
+  "banner_ad_seconds": 60,
   "native_ad_seconds": 60,
   "native_ad_count": 12,
   "banner_height": 50,
