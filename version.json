@@ -10,6 +10,8 @@
 },
 
 "com.offsong.yunseul_diary": {"name": "윤슬", "version": 1},
+"com.offsong.compress_image": {"name": "이미지압축", "version": 1},
+"com.offsong.lhnotice": {"name": "LH공공임대", "version": 1},
 	
  "org.techtown.luvcon": {"name": "럽콘", "version": 202},
  "com.offsong.greenwallpaper": {"name": "너랑나랑", "version": 300},
