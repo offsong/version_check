@@ -13,6 +13,7 @@
 "com.offsong.yunseul_diary": {"name": "윤슬", "version": 1},
 "com.offsong.compress_image": {"name": "이미지압축", "version": 1},
 "com.offsong.lhnotice": {"name": "LH공공임대", "version": 1},
+"com.offsong.onfpaper": {"name": "디데이_배경화면", "version": 771},
 	
  "org.techtown.luvcon": {"name": "럽콘", "version": 202},
  "com.offsong.greenwallpaper": {"name": "너랑나랑", "version": 300},
@@ -197,7 +198,6 @@
   "com.offsong.buddhismquotes": {"name": "세븐틴_호시", "version": 771},
   "com.offsong.themetodo1": {"name": "세븐틴_정한", "version": 771},
   "com.offsong.Eunoia_art": {"name": "세븐틴_조슈아", "version": 771},
-  "com.offsong.onfpaper": {"name": "세븐틴_민규", "version": 771},
   "com.offsong.themetodo5": {"name": "세븐틴_승관", "version": 771},
   "com.offsong.superhero": {"name": "세븐틴_원우", "version": 771},
   "com.offsong.gongyoo_wallpaper": {"name": "세븐틴_우지", "version": 771},
