@@ -14,6 +14,7 @@
 "com.offsong.compress_image": {"name": "이미지압축", "version": 1},
 "com.offsong.lhnotice": {"name": "LH공공임대", "version": 1},
 "com.offsong.onfpaper": {"name": "디데이_배경화면", "version": 771},
+	  "com.offsong.JHOPEQUOTE": {"name": "투명_배경화면", "version": 771},
 	
  "org.techtown.luvcon": {"name": "럽콘", "version": 202},
  "com.offsong.greenwallpaper": {"name": "너랑나랑", "version": 300},
@@ -167,7 +168,7 @@
   "com.offsong.changewallpaper": {"name": "우즈", "version": 771},
   "com.offsong.sleep_sound": {"name": "투어스", "version": 800},
   "com.offsong.newquiz": {"name": "데이식스", "version": 771},
-  "com.offsong.JHOPEQUOTE": {"name": "비투비", "version": 771},
+
   
 	
   "com.offsong.fontemoticon": {"name": "아스트로", "version": 771},
