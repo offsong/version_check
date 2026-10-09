@@ -13,8 +13,10 @@
 "com.offsong.yunseul_diary": {"name": "윤슬", "version": 1},
 "com.offsong.compress_image": {"name": "이미지압축", "version": 1},
 "com.offsong.lhnotice": {"name": "LH공공임대", "version": 1},
+"com.offsong.concrete_calculator": {"name": "콘크리트_계산기", "version": 1},
+"com.offsong.metal_calculator": {"name": "철근_계산기", "version": 1},
 "com.offsong.onfpaper": {"name": "디데이_배경화면", "version": 771},
-	  "com.offsong.JHOPEQUOTE": {"name": "투명_배경화면", "version": 771},
+"com.offsong.JHOPEQUOTE": {"name": "투명_배경화면", "version": 771},
 	
  "org.techtown.luvcon": {"name": "럽콘", "version": 202},
  "com.offsong.greenwallpaper": {"name": "너랑나랑", "version": 300},
