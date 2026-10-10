@@ -18,7 +18,7 @@
 "com.offsong.mind_answers": {"name": "감정의해답", "version": 1},
 "com.offsong.onfpaper": {"name": "디데이_배경화면", "version": 771},
 "com.offsong.JHOPEQUOTE": {"name": "투명_배경화면", "version": 771},
-"com.offsong.randomlunch": {"name": "박수로폰찾기", "version": 771},
+
 	
  "org.techtown.luvcon": {"name": "럽콘", "version": 202},
  "com.offsong.greenwallpaper": {"name": "너랑나랑", "version": 300},
@@ -166,6 +166,7 @@
 
   "com.offsong.fancy_emoji": {"name": "코르티스", "version": 771},
   "com.offsong.JIMINQUOTE": {"name": "아홉", "version": 771},
+  "com.offsong.randomlunch": {"name": "킥플립", "version": 771},
   
   "com.offsong.plusminus": {"name": "슈퍼주니어", "version": 771},
   "com.offsong.changewallpaper": {"name": "우즈", "version": 771},
