@@ -16,6 +16,10 @@
 "com.offsong.concrete_calculator": {"name": "콘크리트_계산기", "version": 1},
 "com.offsong.metal_calculator": {"name": "철근_계산기", "version": 1},
 "com.offsong.mind_answers": {"name": "감정의해답", "version": 1},
+"com.offsong.business_card_maker": {"name": "마이네임카드", "version": 1},
+"com.offsong.farm_ledger": {"name": "농기계장부", "version": 1},
+"com.offsong.lost_myphone": {"name": "박수로폰찾기", "version": 1},
+	
 "com.offsong.onfpaper": {"name": "디데이_배경화면", "version": 771},
 "com.offsong.JHOPEQUOTE": {"name": "투명_배경화면", "version": 771},
 
