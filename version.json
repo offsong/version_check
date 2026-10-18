@@ -59,9 +59,11 @@
 	
   "com.offsong.btsquotes": {"name": "베이비몬스터", "version": 771},
   
-  
-  "com.offsong.dreamcatcher_wallpaper": {"name": "리센느_원이", "version": 800},
+
   "com.offsong.Eunoia_romantic": {"name": "리센느", "version": 771},
+  "com.offsong.dreamcatcher_wallpaper": {"name": "리센느_원이", "version": 800},
+  "com.offsong.randomlunch": {"name": "리센느_리브", "version": 771},
+  "com.offsong.changewallpaper": {"name": "리센느_제나", "version": 771},
 
   "com.offsong.snsd_wallpaper": {"name": "소녀시대", "version": 771},
   "com.offsong.taeyeon_wallpaper": {"name": "소녀시대_태연", "version": 771},
@@ -172,10 +174,8 @@
 
   "com.offsong.fancy_emoji": {"name": "코르티스", "version": 771},
   "com.offsong.JIMINQUOTE": {"name": "아홉", "version": 771},
-  "com.offsong.randomlunch": {"name": "킥플립", "version": 771},
   
   "com.offsong.plusminus": {"name": "슈퍼주니어", "version": 771},
-  "com.offsong.changewallpaper": {"name": "우즈", "version": 771},
   "com.offsong.sleep_sound": {"name": "투어스", "version": 800},
   "com.offsong.newquiz": {"name": "데이식스", "version": 771},
 
