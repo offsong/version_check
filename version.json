@@ -8,6 +8,7 @@
   "banner_height": 50,
   "popular_min_count": 20,
   "fake_call_reward_count": 30,
+  "fake_call_reward_minutes": 5,
   "free_favorite_limit": 20,
   "free_liveday_limit": 5,
   "free_favorite_folder_limit": 3
