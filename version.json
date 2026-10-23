@@ -2,7 +2,7 @@
   "ad_config": {
   "banner_ad_seconds": 15,
   "inter_count": 0,
-  "inter_time": 90,
+  "inter_time": 60,
   "native_ad_seconds": 60,
   "native_ad_count": 12,
   "banner_height": 50,
