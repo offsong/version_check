@@ -55,8 +55,8 @@
 	
 	
 	
-  "com.offsong.illit_wallpaper": {"name": "아일릿", "version": 805},
-  "com.offsong.monsta_wallpaper": {"name": "아일릿_원희", "version": 805},
+  "com.offsong.illit_wallpaper": {"name": "아일릿", "version": 806},
+  "com.offsong.monsta_wallpaper": {"name": "아일릿_원희", "version": 806},
   "com.offsong.sudoku_game": {"name": "아일릿_모카", "version": 803},
   "com.offsong.JUNGKOOKQUOTE": {"name": "아일릿_민주", "version": 803},
 	
@@ -81,7 +81,7 @@
   "com.offsong.xdinary_wallpaper": {"name": "블랙핑크_지수", "version": 803},
 
 
-  "com.offsong.twice": {"name": "트와이스", "version": 803},
+  "com.offsong.twice": {"name": "트와이스", "version": 806},
   "com.offsong.dohyun_wallpaper": {"name": "트와이스_다현", "version": 803},
   "com.offsong.jr_wallpaper": {"name": "트와이스_정연", "version": 803},
   "com.offsong.momo_wallpaper": {"name": "트와이스_모모", "version": 803},
@@ -93,7 +93,7 @@
   "com.offsong.chamii_wallpaper": {"name": "트와이스_지효", "version": 803},
 
 
-  "com.offsong.mirae_wallpaper": {"name": "아이브", "version": 805},
+  "com.offsong.mirae_wallpaper": {"name": "아이브", "version": 806},
   "com.offsong.wonyoung_wallpaper": {"name": "아이브_장원영", "version": 800},
   "com.offsong.randombooks": {"name": "아이브_안유진", "version": 803},
   "com.offsong.dressup_wallpaper": {"name": "아이브_레이", "version": 803},
@@ -153,7 +153,7 @@
   "com.offsong.yellowwallpaper": {"name": "여자아이들_민니", "version": 803},
   
   
-  "com.offsong.aespa": {"name": "에스파", "version": 805},
+  "com.offsong.aespa": {"name": "에스파", "version": 806},
   "com.offsong.joohyuk_wallpaper": {"name": "에스파_윈터", "version": 803},
   "com.offsong.bogum_wallpaper": {"name": "에스파_카리나", "version": 803},
   "com.offsong.pattern_generator": {"name": "에스파_지젤", "version": 803},
@@ -179,7 +179,7 @@
   "com.offsong.JIMINQUOTE": {"name": "아홉", "version": 803},
   
   "com.offsong.plusminus": {"name": "슈퍼주니어", "version": 803},
-  "com.offsong.sleep_sound": {"name": "투어스", "version": 803},
+  "com.offsong.sleep_sound": {"name": "투어스", "version": 806},
   "com.offsong.newquiz": {"name": "데이식스", "version": 803},
 
   
@@ -198,7 +198,7 @@
   "com.offsong.Eunoia_wisdom": {"name": "라이즈", "version": 803},
 
   
-  "com.offsong.txtpaper": {"name": "투바투", "version": 803},
+  "com.offsong.txtpaper": {"name": "투바투", "version": 806},
   "com.offsong.coloring_animal": {"name": "투바투_연준", "version": 803},
 
   
@@ -207,7 +207,7 @@
   
 
  
-  "com.offsong.seventeen_wallpaper": {"name": "세븐틴", "version": 803},
+  "com.offsong.seventeen_wallpaper": {"name": "세븐틴", "version": 806},
   "com.offsong.btsquotes_noads": {"name": "세븐틴_도겸", "version": 803},
   "com.offsong.buddhismquotes": {"name": "세븐틴_호시", "version": 803},
   "com.offsong.themetodo1": {"name": "세븐틴_정한", "version": 803},
@@ -217,7 +217,7 @@
   "com.offsong.gongyoo_wallpaper": {"name": "세븐틴_우지", "version": 803},
 	
 
-  "com.offsong.skz_wallpaper": {"name": "스트레이키즈", "version": 805},
+  "com.offsong.skz_wallpaper": {"name": "스트레이키즈", "version": 806},
   "com.offsong.allani_wallpaper": {"name": "스키즈_현진", "version": 803},	
   "com.offsong.Pantone_art": {"name": "스키즈_필릭스", "version": 803},
   "com.offsong.irene_wallpaper": {"name": "스키즈_리노", "version": 803},
@@ -226,7 +226,7 @@
   "com.offsong.pm_wallpaper": {"name": "피원하모니", "version": 803},
 
 	
-    "com.offsong.enhypen": {"name": "엔하이픈", "version": 803},
+    "com.offsong.enhypen": {"name": "엔하이픈", "version": 806},
     "com.offsong.enhypen_heeseung": {"name": "엔하이픈_희승", "version": 803},
     "com.offsong.enhypen_jake": {"name": "엔하이픈_제이크", "version": 803},
     "com.offsong.enhypen_jay": {"name": "엔하이픈_제이", "version": 803},
@@ -260,7 +260,7 @@
     "com.offsong.hiy_wallpaper": {"name": "황인엽", "version": 803},
 
 
-    "com.offsong.loona_wallpaper": {"name": "한국여자배우", "version": 803},
+    "com.offsong.loona_wallpaper": {"name": "한국여자배우", "version": 806},
     "com.offsong.todo": {"name": "수지", "version": 803},
     "com.offsong.shinee_wallpaper": {"name": "김지원", "version": 803},
     "com.offsong.shinhye_wallpaper": {"name": "고윤정", "version": 803},
