@@ -99,7 +99,6 @@
   "com.offsong.nayeon_wallpaper": {"name": "트와이스_나연", "version": 807},
   "com.offsong.sana_wallpaper": {"name": "트와이스_사나", "version": 807},
   "com.offsong.tzuyu_wallpaper": {"name": "트와이스_쯔위", "version": 807},
-  "com.offsong.jeonsomi_wallpaper": {"name": "트와이스_채영", "version": 807},
   "com.offsong.shownu_wallpaper": {"name": "트와이스_미나", "version": 807},
   "com.offsong.chamii_wallpaper": {"name": "트와이스_지효", "version": 807},
 
@@ -204,6 +203,7 @@
   "com.offsong.treasure_wallpaper": {"name": "트레저", "version": 807},
   "com.offsong.oneus_wallpaper": {"name": "원어스", "version": 807},
   "com.offsong.Eunoia_wisdom": {"name": "라이즈", "version": 807},
+  "com.offsong.jeonsomi_wallpaper": {"name": "알파드라이브원", "version": 808},
 
   
   "com.offsong.txtpaper": {"name": "투바투", "version": 807},
